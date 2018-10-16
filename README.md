@@ -1,2 +1,5 @@
 # hello-world
-This is a sample repository.
+
+Hi There.
+
+I am called Aswin. I work as a data engineer and now I am exploring machine learning.
